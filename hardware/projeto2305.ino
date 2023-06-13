@@ -1,7 +1,7 @@
 
 /* ########################################################################
  * # PROJETO:        WIFI - HTTPClient (API: GET/POST) - VERSÃO:  3.0.0 
- * # AUTOR:          SYSTEKNA
+ * # AUTOR:          Celso Almeida Leite F
  * # DATA CRIAÇÃO:   01/06/2023
  * # DATA ALTERAÇÃO: 13/06/2023
  * # HARDWARE:       ESP32 Dev Module
